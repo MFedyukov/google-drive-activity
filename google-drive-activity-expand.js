@@ -1,0 +1,20 @@
+javascript: (function() {
+    var newWidth = 700;
+    var startNode = document.getElementsByClassName('a-ub-Gd')[0];
+    var node = startNode;
+    node.style.width = newWidth - 9 + 'px';
+    node = node.parentNode;
+    node.style.width = newWidth + 'px';
+    node = node.parentNode;
+    node.style.width = newWidth + 'px';
+    node = node.parentNode;
+    node.style.width = newWidth + 'px';
+    node = node.parentNode;
+    node.style.width = newWidth + 'px';
+    node = node.parentNode;
+    node.style.width = newWidth + 'px';
+    node = document.getElementsByClassName('a-s-tb-sc-Ja-Q a-s-tb-sc-Ja-Q-Nm a-s-tb-Pe-Q a-D-Pe-Q')[0];
+    node.parentNode.removeChild(node);
+    node = document.getElementsByClassName('a-ub-D')[0];
+    node.parentNode.removeChild(node);
+})();
