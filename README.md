@@ -1,9 +1,9 @@
 # Google Drive Change History
 
 1. Go to https://drive.google.com/
-2. Click **i** > ACTIVITY on the right
+2. Click ⓘ > Activity on the right
 
-If needed you can make ACTIVITY panel larger, highlight the types of the changes and scroll down to see the whole previous day, see details below.
+If needed you can make Activity panel larger, highlight the types of the changes and scroll down to see the whole previous day, see details below.
 
 ## Google Chrome for Windows
 
@@ -15,7 +15,7 @@ If needed you can make ACTIVITY panel larger, highlight the types of the changes
 
 ### Exploring the activity
 1. Go to https://drive.google.com/
-2. Click **i** > ACTIVITY on the right
+2. Click ⓘ > Activity on the right
 3. On Bookmarks bar click the created Drive Activity View button
 4. Activity panel will get expanded and easier to read
 
@@ -36,7 +36,7 @@ In general the process is the same as in Chrome, but the addon must be installed
 
 ### Exploring the activity
 1. Go to https://drive.google.com/
-2. Click **i** > ACTIVITY on the right.
+2. Click ⓘ > Activity on the right.
 3. On Bookmarks bar click the created Drive Activity View button
 4. Activity panel will get expanded and easier to read
 
@@ -53,6 +53,6 @@ Either just log in to Chrome on your smartphone and Chrome on your PC to automat
 ### Exploring the activity
 1. Go to https://drive.google.com/
 2. ⋮ > tick Desktop site
-3. Click **i** > ACTIVITY on the right
+3. Click ⓘ > Activity on the right
 4. Click address bar > start typing in the bookmarklet name (Drive Activity View) > as soon as our bookmarklet appears in the list, click it
 5. Activity panel will get expanded and easier to read
