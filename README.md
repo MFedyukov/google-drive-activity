@@ -3,7 +3,7 @@
 1. Go to https://drive.google.com/
 2. Click **i** > ACTIVITY on the right
 
-If needed, you can make ACTIVITY panel larger, highlight the types of the changes and scroll down to see the whole previous day, see details below.
+If needed you can make ACTIVITY panel larger, highlight the types of the changes and scroll down to see the whole previous day, see details below.
 
 ## Google Chrome for Windows
 
